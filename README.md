@@ -23,4 +23,4 @@ and occupancy.
 - Tableau Public / Google Data Studio
 
 ## Dashboard
-- [insert link]
+- Tableau Public: https://public.tableau.com/views/AirbnbLondonPricingandListingPerformanceAnalysis/AirbnbLondonPricingListingDashboard
